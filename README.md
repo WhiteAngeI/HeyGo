@@ -4,7 +4,7 @@
 Dear Heygo Team,
 
 It was pleasure to create this app. Main goal for me was to learn 
-and practice Styled-Components. It was like fighting with Ivan Drago.
+and practice Styled-Components.
 
 I started with proper planning to make it fast and make it pretty(code and UI)
 
